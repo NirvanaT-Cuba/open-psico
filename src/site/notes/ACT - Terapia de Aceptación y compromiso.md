@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/act-terapia-de-aceptacion-y-compromiso/"}
 ---
 
+
 Padre: [[Steven Hayes\|Steven Hayes]]
 Sustentado en la [[Teoría e los marcos relacionales - TMR\|Teoría e los marcos relacionales - TMR]], las personas al intentar solucionar los problemas terminan teniendo un problema
 Nivel de eficacia moderada
