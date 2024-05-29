@@ -3,7 +3,8 @@
 ---
 
 
-> Todo lo que se hace se puede sólo si se mide se puede controlar, sólo si se controla de puede dirigir y sólo si se dirige se puede mejorar
+> Todo lo que se hace se puede <u>medir</u>. Solo si se mide se puede <u>controlar</u>, solo si se controla se puede <u>dirigir</u> y solo si se dirige se puede ==mejorar==.
+> *Pedro Mendoza Arana*
 
 
 ## 👩🏽‍🎓Educativa
