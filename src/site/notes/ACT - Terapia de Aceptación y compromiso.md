@@ -7,7 +7,7 @@ Padre: [[Steven Hayes\|Steven Hayes]]
 Sustentado en la [[Teoría e los marcos relacionales - TMR\|Teoría e los marcos relacionales - TMR]], las personas al intentar solucionar los problemas terminan teniendo un problema
 Nivel de eficacia moderada
 **Generar flexibilidad psicológica**  
-6 principios del Hexaflex (son habilidades no conceptos)
+6 principios del [[Hexaflex\|Hexaflex]] (son habilidades no conceptos)
 1. F
 2. Vulnerabilidad
 3. Presente
