@@ -11,12 +11,14 @@
 	- 6-7
 	- 8-10 
 	- 11-14 
-# 🤓[Tareas psicólogas](https://docs.google.com/spreadsheets/d/12zTu47K9cDH-ye0xJ9JasigGGmUxVwdKONgtPk_9nD0/edit?gid=127917895#gid=127917895)
+🤓[Tareas psicólogas](https://docs.google.com/spreadsheets/d/12zTu47K9cDH-ye0xJ9JasigGGmUxVwdKONgtPk_9nD0/edit?gid=127917895#gid=127917895)
+ [Asistencias](https://docs.google.com/spreadsheets/d/1lu2rce7V7RHWnKniSv-6-c7EOMhnjZHD/edit?usp=drive_link&ouid=115101375739434327038&rtpof=true&sd=true)
 # 🎤Entrevistas
 ## ✅[Checklist entrevistas](https://docs.google.com/spreadsheets/d/1b09ZDIn6xWUomKmZaUPxIBG2VnslWR3yZl7zhTrdgvA/edit?usp=sharing) 
 ## [ carpeta📝PAS anotaciones](https://drive.google.com/drive/folders/1X0oQUpX9Bu-vouNFFxLpbQJ18jzN3wTd)
 ## [ carpeta📝INFORMES](https://drive.google.com/drive/folders/1Bpj1us57SJoj8QK7JkNIXKwa37nrOmFl)
-# [Asistencias](https://docs.google.com/spreadsheets/d/1lu2rce7V7RHWnKniSv-6-c7EOMhnjZHD/edit?usp=drive_link&ouid=115101375739434327038&rtpof=true&sd=true)
+
+
 # Inteligencia emocional
 1. [Identificar emociones](https://docs.google.com/document/d/1iz9fvEl5P4KTvfsMhugNSTaC7XvQ2CdFmhpQUh3rQEQ/edit?tab=t.0)
 2. [Importancia de expresar nuestras emociones](https://docs.google.com/document/d/1PS7lWBd4f6BJL93mCeQwTo3a_4nj-sIMe2sxFWInItA/edit?usp=sharing)
@@ -27,8 +29,8 @@
 1. Introducción
 2. Físico
 3. Gustos
-4. Habilidades
-5. Errores
+4. [Habilidades y debilidades](https://docs.google.com/document/d/1oo_JzVu29eZrQk-26HxNBc_B4YyPCGeO/edit#heading=h.30j0zll)
+5. [Errores](https://docs.google.com/document/d/1MM8ssNLJkReO2UtbRNNevtb-ViQSVb_v/edit)
 
 # Habilidades sociales
 
