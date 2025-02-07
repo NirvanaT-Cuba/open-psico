@@ -4,7 +4,7 @@
 
 
 ![Pasted image 20250203084503.png](/img/user/Pasted%20image%2020250203084503.png)
- 
+ https://open-psico.vercel.app/talleres-verano/
 #  [ 🐧Drive General](https://drive.google.com/drive/folders/174eJcC0jv5xoKCyZfN_ReXhYblsYG9Xp)
 - #### [ppt - Presentación con módulos y temas](https://docs.google.com/presentation/d/1QUcv_6N3MKA3jfXdNdWRrE3kfFZIoh0m/edit#slide=id.p21)
 	- 4-5
@@ -40,9 +40,9 @@
 3. Empatía
 4. Tolerancia
 ---
-# Redacción de Antecedentes
+# Redacción de Informe COMPLETO 😮
 ######  -✅[Checklist entrevistas](https://docs.google.com/spreadsheets/d/1b09ZDIn6xWUomKmZaUPxIBG2VnslWR3yZl7zhTrdgvA/edit?usp=sharing) 
-1. Nirvana
+1. Nirvana 
 	1. Matias Bustios
 	2. Héctor
 	3. Brianna
