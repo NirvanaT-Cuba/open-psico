@@ -40,22 +40,23 @@
 3. Empatía
 4. Tolerancia
 ---
-# Antecedentes
-5. Nirvana
+# Redacción de Antecedentes
+######  -✅[Checklist entrevistas](https://docs.google.com/spreadsheets/d/1b09ZDIn6xWUomKmZaUPxIBG2VnslWR3yZl7zhTrdgvA/edit?usp=sharing) 
+1. Nirvana
 	1. Matias Bustios
 	2. Héctor
 	3. Brianna
 	4. Nicolae
 	5. Salvador
 	6. Guillermo
-6. Mayra
+2. Mayra
 	1. Maximiliano
 	2. Nicola
 	3. Gonzalo
 	4. Thiago
 	5. Julio
 	6. Andrey
-7. Yenni
+3. Yenni
 	1. BRANCO
 	2. MAU
 	3. SAULO
