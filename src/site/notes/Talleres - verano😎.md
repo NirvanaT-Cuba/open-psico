@@ -13,12 +13,14 @@
 	- 11-14 
 🤓[Tareas psicólogas](https://docs.google.com/spreadsheets/d/12zTu47K9cDH-ye0xJ9JasigGGmUxVwdKONgtPk_9nD0/edit?gid=127917895#gid=127917895)
  [Asistencias](https://docs.google.com/spreadsheets/d/1lu2rce7V7RHWnKniSv-6-c7EOMhnjZHD/edit?usp=drive_link&ouid=115101375739434327038&rtpof=true&sd=true)
+ 
+---
 # 🎤Entrevistas
 ##  -✅[Checklist entrevistas](https://docs.google.com/spreadsheets/d/1b09ZDIn6xWUomKmZaUPxIBG2VnslWR3yZl7zhTrdgvA/edit?usp=sharing) 
 ## - [ carpeta📝PAS anotaciones](https://drive.google.com/drive/folders/1X0oQUpX9Bu-vouNFFxLpbQJ18jzN3wTd)
 ## - [ carpeta📝INFORMES](https://drive.google.com/drive/folders/1Bpj1us57SJoj8QK7JkNIXKwa37nrOmFl)
 
-
+---
 # Inteligencia emocional
 1. [Identificar emociones](https://docs.google.com/document/d/1iz9fvEl5P4KTvfsMhugNSTaC7XvQ2CdFmhpQUh3rQEQ/edit?tab=t.0)
 2. [Importancia de expresar nuestras emociones](https://docs.google.com/document/d/1PS7lWBd4f6BJL93mCeQwTo3a_4nj-sIMe2sxFWInItA/edit?usp=sharing)
@@ -34,6 +36,29 @@
 
 # Habilidades sociales
 1. Estilos de comunicación
-2. Empatía
-3. Tolerancia
-4. Asertividad
+2. Asertividad
+3. Empatía
+4. Tolerancia
+---
+# Antecedentes
+5. Nirvana
+	1. Matias Bustios
+	2. Héctor
+	3. Brianna
+	4. Nicolae
+	5. Salvador
+	6. Guillermo
+6. Mayra
+	1. Maximiliano
+	2. Nicola
+	3. Gonzalo
+	4. Thiago
+	5. Julio
+	6. Andrey
+7. Yenni
+	1. BRANCO
+	2. MAU
+	3. SAULO
+	4. FABRIZZIO
+	5. IKER
+	6. PIETRO
